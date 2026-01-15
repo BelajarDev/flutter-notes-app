@@ -22,10 +22,6 @@ flutter pub get
 flutter run
 ```
 
-```
-
----
-
 ## 🛠️ Tech Stack
 
 - Flutter
