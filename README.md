@@ -1,7 +1,7 @@
 # 📝 Flutter Notes App
 
 <p align="center">
-  <img src="screenshots/note_apk.png">
+  <img src="screnshots/note_apk.png">
 </p>
 
 Flutter Notes App adalah aplikasi catatan sederhana yang dibuat menggunakan Flutter dengan tampilan **modern dan aesthetic**.  
