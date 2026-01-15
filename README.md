@@ -1,5 +1,9 @@
 # 📝 Flutter Notes App
 
+<p align="center">
+  <img src="screenshots/note_apk.png">
+</p>
+
 Flutter Notes App adalah aplikasi catatan sederhana yang dibuat menggunakan Flutter dengan tampilan **modern dan aesthetic**.  
 Aplikasi ini mendukung fitur **CRUD (Create, Read, Update, Delete)** dan cocok untuk latihan serta portfolio GitHub.
 
